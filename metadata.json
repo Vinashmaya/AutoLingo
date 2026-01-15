@@ -1,0 +1,7 @@
+{
+  "name": "AutoLingo Live",
+  "description": "Real-time bi-directional voice translation tool for automotive dealerships using Gemini Live API.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
